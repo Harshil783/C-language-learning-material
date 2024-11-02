@@ -1,12 +1,4 @@
----
-description: The GNU C Reference Manual
-distribution: global
-Generator: makeinfo
-keywords: The GNU C Reference Manual
-lang: en
-resource-type: document
-title: The GNU C Reference Manual
----
+# The GNU C Reference Manual
 
 - [The GNU C Reference Manual](#the-gnu-c-reference-manual)
   - [Table of Contents](#table-of-contents)
